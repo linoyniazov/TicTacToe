@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Button
 import android.widget.GridLayout
+import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 
@@ -11,12 +12,16 @@ class MainActivity : AppCompatActivity() {
 
     private val board = Array(3) { CharArray(3) { ' ' } } // לוח המשחק
     private var currentPlayer = 'X' // השחקן הנוכחי
+    private lateinit var winnerTextView: TextView // ה-TextView להודעת הניצחון
+    private lateinit var playAgainButton: Button // כפתור "Play Again"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main) // קישור לפריסה (layout)
+        setContentView(R.layout.activity_main)
 
         val gridLayout = findViewById<GridLayout>(R.id.gridLayout)
+        winnerTextView = findViewById(R.id.winnerTextView)
+        playAgainButton = findViewById(R.id.resetButton)
 
         // הגדרת פעולות ללחיצה על כפתורי הלוח
         for (i in 0 until gridLayout.childCount) {
@@ -30,7 +35,7 @@ class MainActivity : AppCompatActivity() {
                     board[row][col] = currentPlayer
 
                     if (checkWinner()) {
-                        Toast.makeText(this, "Player $currentPlayer wins!", Toast.LENGTH_SHORT).show()
+                        showWinner() // הצגת הודעת הניצחון
                         disableBoard(gridLayout)
                     } else if (isBoardFull()) {
                         Toast.makeText(this, "It's a draw!", Toast.LENGTH_SHORT).show()
@@ -41,11 +46,15 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-        // פעולה לכפתור האיפוס
-        val resetButton = findViewById<Button>(R.id.resetButton)
-        resetButton.setOnClickListener {
+        // הגדרת כפתור Play Again
+        playAgainButton.setOnClickListener {
             resetBoard(gridLayout)
         }
+    }
+
+    private fun showWinner() {
+        winnerTextView.text = "$currentPlayer Wins!"
+        winnerTextView.visibility = View.VISIBLE
     }
 
     private fun resetBoard(gridLayout: GridLayout) {
@@ -58,6 +67,7 @@ class MainActivity : AppCompatActivity() {
         for (row in board) {
             row.fill(' ')
         }
+        winnerTextView.visibility = View.GONE // הסתרת הודעת הניצחון
     }
 
     private fun disableBoard(gridLayout: GridLayout) {
