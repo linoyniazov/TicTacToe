@@ -1,0 +1,107 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/background_color">
+
+    <GridLayout
+        android:id="@+id/gridLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:columnCount="3"
+        android:rowCount="3"
+        android:background="@drawable/grid_background">
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:backgroundTint="@color/button_color"
+            android:textColor="@color/button_text_color"
+            android:contentDescription="@string/button_1" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:backgroundTint="@color/button_color"
+            android:textColor="@color/button_text_color"
+            android:contentDescription="@string/button_2" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:backgroundTint="@color/button_color"
+            android:textColor="@color/button_text_color"
+            android:contentDescription="@string/button_3" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:backgroundTint="@color/button_color"
+            android:textColor="@color/button_text_color"
+            android:contentDescription="@string/button_4" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:backgroundTint="@color/button_color"
+            android:textColor="@color/button_text_color"
+            android:contentDescription="@string/button_5" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:backgroundTint="@color/button_color"
+            android:textColor="@color/button_text_color"
+            android:contentDescription="@string/button_6" />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:backgroundTint="@color/button_color"
+            android:textColor="@color/button_text_color"
+            android:contentDescription="@string/button_7" />
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:backgroundTint="@color/button_color"
+            android:textColor="@color/button_text_color"
+            android:contentDescription="@string/button_8" />
+
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:backgroundTint="@color/button_color"
+            android:textColor="@color/button_text_color"
+            android:contentDescription="@string/button_9" />
+    </GridLayout>
+
+    <Button
+        android:id="@+id/resetButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="@color/button_color"
+        android:textColor="@color/button_text_color"
+        android:padding="10dp"
+        android:text="@string/play_again" />
+</LinearLayout>

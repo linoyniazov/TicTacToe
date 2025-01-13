@@ -1,0 +1,6 @@
+<resources>
+    <color name="background_color">#FFFFFF</color>
+    <color name="button_color">#F880A7</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="grid_line_color">#000000</color>
+</resources>

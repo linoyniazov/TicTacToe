@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="play_again">Play Again</string>
+    <string name="button_1">Top Left Button</string>
+    <string name="button_2">Top Middle Button</string>
+    <string name="button_3">Top Right Button</string>
+    <string name="button_4">Middle Left Button</string>
+    <string name="button_5">Middle Button</string>
+    <string name="button_6">Middle Right Button</string>
+    <string name="button_7">Bottom Left Button</string>
+    <string name="button_8">Bottom Middle Button</string>
+    <string name="button_9">Bottom Right Button</string>
+</resources>
