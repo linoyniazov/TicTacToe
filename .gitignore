@@ -20,3 +20,15 @@
 *.class
 *.jar
 *.keystore
+
+# Ignore intermediate build files
+/intermediates/
+/output/
+*.bin
+*.json
+*.properties
+
+# Ignore generated files by Android Studio
+/local.properties
+/gradlew
+/gradlew.bat
