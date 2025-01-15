@@ -18,7 +18,7 @@ id button8
 id button9
 id gridLayout
 id resetButton
-id winnerTextView
+id turnTextView
 layout activity_main
 mipmap ic_launcher
 mipmap ic_launcher_round
@@ -32,7 +32,10 @@ string button_6
 string button_7
 string button_8
 string button_9
+string draw_text
 string play_again
+string turn_text
+string winner_text
 style Theme.TicTacToe
 xml backup_rules
 xml data_extraction_rules
