@@ -1,13 +1,22 @@
-# Ignore Gradle files
+# Ignore Gradle build files
+/build/
 .gradle/
-# Ignore Android Studio files
-.idea/
 *.iml
-# Ignore local configuration files
-local.properties
-# Ignore log files
-*.log
-# Ignore Android-specific build artifacts
-captures/
-# Ignore dependency cache
-out/
+
+# Ignore IntelliJ/Android Studio files
+.idea/
+.DS_Store
+.classpath
+.project
+.settings/
+
+# Ignore APK and generated files
+*.apk
+*.ap_
+/captures/
+
+# Ignore Android build artifacts
+*.dex
+*.class
+*.jar
+*.keystore
