@@ -1,34 +1,15 @@
-# Ignore Gradle build files
-/build/
-.gradle/
 *.iml
-
-# Ignore IntelliJ/Android Studio files
-.idea/
-.DS_Store
-.classpath
-.project
-.settings/
-
-# Ignore APK and generated files
-*.apk
-*.ap_
-/captures/
-
-# Ignore Android build artifacts
-*.dex
-*.class
-*.jar
-*.keystore
-
-# Ignore intermediate build files
-/intermediates/
-/output/
-*.bin
-*.json
-*.properties
-
-# Ignore generated files by Android Studio
+.gradle
 /local.properties
-/gradlew
-/gradlew.bat
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
