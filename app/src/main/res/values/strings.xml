@@ -10,4 +10,7 @@
     <string name="button_7">Bottom Left Button</string>
     <string name="button_8">Bottom Middle Button</string>
     <string name="button_9">Bottom Right Button</string>
+    <string name="turn_text">Turn %1$s</string> <!-- טקסט לתור של השחקן -->
+    <string name="winner_text">Player %1$s wins!</string> <!-- טקסט לניצחון -->
+    <string name="draw_text">It\'s a draw!</string> <!-- טקסט לתיקו -->
 </resources>

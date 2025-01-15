@@ -3380,6 +3380,7 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id turnTextView
 id unchecked
 id uniform
 id unlabeled
@@ -3392,7 +3393,6 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
-id winnerTextView
 id withText
 id with_icon
 id withinBounds
@@ -3655,6 +3655,7 @@ string close_drawer
 string close_sheet
 string default_error_message
 string default_popup_window_title
+string draw_text
 string dropdown_menu
 string error_a11y_label
 string error_icon_content_description
@@ -3846,6 +3847,8 @@ string tab
 string template_percent
 string tooltip_description
 string tooltip_label
+string turn_text
+string winner_text
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

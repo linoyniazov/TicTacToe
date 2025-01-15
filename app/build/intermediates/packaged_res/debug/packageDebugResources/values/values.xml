@@ -2,7 +2,7 @@
 <resources>
     <color name="background_color">#FFFFFF</color>
     <color name="button_color">#F880A7</color>
-    <color name="button_text_color">#FFFFFF</color>
+    <color name="button_text_color">#000000</color>
     <color name="grid_line_color">#000000</color>
     <string name="app_name">Tic Tac Toe</string>
     <string name="button_1">Top Left Button</string>
@@ -14,7 +14,10 @@
     <string name="button_7">Bottom Left Button</string>
     <string name="button_8">Bottom Middle Button</string>
     <string name="button_9">Bottom Right Button</string>
+    <string name="draw_text">It\'s a draw!</string>
     <string name="play_again">Play Again</string>
+    <string name="turn_text">Turn %1$s</string>
+    <string name="winner_text">Player %1$s wins!</string>
     <style name="Theme.TicTacToe" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">#E91E63</item>
         <item name="colorPrimaryDark">#E91E63</item>
