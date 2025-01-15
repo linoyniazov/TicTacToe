@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.TicTacToe" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#E91E63</item>
+        <item name="colorPrimaryDark">#E91E63</item>
+        <item name="colorAccent">#00BCD4</item>
+    </style>
+</resources>
