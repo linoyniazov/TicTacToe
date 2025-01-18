@@ -4,7 +4,7 @@
             "outputFile": "com.example.tictactoe.app-mergeDebugResources-57:/values-eu/values-eu.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\miki1\\.gradle\\caches\\8.9\\transforms\\e7a4f9b5a30e10fcb572622a1b23f0da\\transformed\\material-1.9.0\\res\\values-eu\\values-eu.xml",
+                    "source": "C:\\Users\\elime\\.gradle\\caches\\8.9\\transforms\\e7a4f9b5a30e10fcb572622a1b23f0da\\transformed\\material-1.9.0\\res\\values-eu\\values-eu.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\miki1\\.gradle\\caches\\8.9\\transforms\\d96593fa536216c353e43dcd4d2b87b7\\transformed\\material3-release\\res\\values-eu\\values-eu.xml",
+                    "source": "C:\\Users\\elime\\.gradle\\caches\\8.9\\transforms\\d96593fa536216c353e43dcd4d2b87b7\\transformed\\material3-release\\res\\values-eu\\values-eu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,41 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\miki1\\.gradle\\caches\\8.9\\transforms\\76341b9f7e57e1c8c1958aa8482bceb8\\transformed\\foundation-release\\res\\values-eu\\values-eu.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,141",
-                        "endColumns": "85,88",
-                        "endOffsets": "136,225"
-                    },
-                    "to": {
-                        "startLines": "177,178",
-                        "startColumns": "4,4",
-                        "startOffsets": "16792,16878",
-                        "endColumns": "85,88",
-                        "endOffsets": "16873,16962"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\miki1\\.gradle\\caches\\8.9\\transforms\\4391515d488309bce47e958685fdfbcb\\transformed\\core-1.15.0\\res\\values-eu\\values-eu.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,153,256,356,459,564,667,786",
-                        "endColumns": "97,102,99,102,104,102,118,100",
-                        "endOffsets": "148,251,351,454,559,662,781,882"
-                    },
-                    "to": {
-                        "startLines": "38,39,40,41,42,43,44,173",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "3569,3667,3770,3870,3973,4078,4181,16426",
-                        "endColumns": "97,102,99,102,104,102,118,100",
-                        "endOffsets": "3662,3765,3865,3968,4073,4176,4295,16522"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\miki1\\.gradle\\caches\\8.9\\transforms\\e834347f32fc2479a05b0602a15502fb\\transformed\\appcompat-1.6.1\\res\\values-eu\\values-eu.xml",
+                    "source": "C:\\Users\\elime\\.gradle\\caches\\8.9\\transforms\\e834347f32fc2479a05b0602a15502fb\\transformed\\appcompat-1.6.1\\res\\values-eu\\values-eu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -91,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\miki1\\.gradle\\caches\\8.9\\transforms\\de41ae4fdde63932e30fe8946a968433\\transformed\\ui-release\\res\\values-eu\\values-eu.xml",
+                    "source": "C:\\Users\\elime\\.gradle\\caches\\8.9\\transforms\\de41ae4fdde63932e30fe8946a968433\\transformed\\ui-release\\res\\values-eu\\values-eu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -105,6 +71,40 @@
                         "startOffsets": "4596,4687,4768,4869,4973,5299,5375,15688,15777,15861,15936,16091,16179,16352,16527,16604,16672",
                         "endColumns": "90,80,100,103,91,75,86,88,83,74,71,87,89,73,76,67,119",
                         "endOffsets": "4682,4763,4864,4968,5060,5370,5457,15772,15856,15931,16003,16174,16264,16421,16599,16667,16787"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\elime\\.gradle\\caches\\8.9\\transforms\\4391515d488309bce47e958685fdfbcb\\transformed\\core-1.15.0\\res\\values-eu\\values-eu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,256,356,459,564,667,786",
+                        "endColumns": "97,102,99,102,104,102,118,100",
+                        "endOffsets": "148,251,351,454,559,662,781,882"
+                    },
+                    "to": {
+                        "startLines": "38,39,40,41,42,43,44,173",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "3569,3667,3770,3870,3973,4078,4181,16426",
+                        "endColumns": "97,102,99,102,104,102,118,100",
+                        "endOffsets": "3662,3765,3865,3968,4073,4176,4295,16522"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\elime\\.gradle\\caches\\8.9\\transforms\\76341b9f7e57e1c8c1958aa8482bceb8\\transformed\\foundation-release\\res\\values-eu\\values-eu.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,141",
+                        "endColumns": "85,88",
+                        "endOffsets": "136,225"
+                    },
+                    "to": {
+                        "startLines": "177,178",
+                        "startColumns": "4,4",
+                        "startOffsets": "16792,16878",
+                        "endColumns": "85,88",
+                        "endOffsets": "16873,16962"
                     }
                 }
             ]

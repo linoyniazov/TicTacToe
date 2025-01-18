@@ -4,7 +4,7 @@
             "outputFile": "com.example.tictactoe.app-mergeDebugResources-57:/values-hi/values-hi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\miki1\\.gradle\\caches\\8.9\\transforms\\e7a4f9b5a30e10fcb572622a1b23f0da\\transformed\\material-1.9.0\\res\\values-hi\\values-hi.xml",
+                    "source": "C:\\Users\\elime\\.gradle\\caches\\8.9\\transforms\\e7a4f9b5a30e10fcb572622a1b23f0da\\transformed\\material-1.9.0\\res\\values-hi\\values-hi.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,24 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\miki1\\.gradle\\caches\\8.9\\transforms\\de41ae4fdde63932e30fe8946a968433\\transformed\\ui-release\\res\\values-hi\\values-hi.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,200,283,376,474,563,641,738,827,912,980,1049,1130,1215,1288,1369,1435",
-                        "endColumns": "94,82,92,97,88,77,96,88,84,67,68,80,84,72,80,65,119",
-                        "endOffsets": "195,278,371,469,558,636,733,822,907,975,1044,1125,1210,1283,1364,1430,1550"
-                    },
-                    "to": {
-                        "startLines": "48,49,50,51,52,56,57,164,165,166,167,169,170,172,174,175,176",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "4504,4599,4682,4775,4873,5190,5268,15443,15532,15617,15685,15833,15914,16081,16255,16336,16402",
-                        "endColumns": "94,82,92,97,88,77,96,88,84,67,68,80,84,72,80,65,119",
-                        "endOffsets": "4594,4677,4770,4868,4957,5263,5360,15527,15612,15680,15749,15909,15994,16149,16331,16397,16517"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\miki1\\.gradle\\caches\\8.9\\transforms\\d96593fa536216c353e43dcd4d2b87b7\\transformed\\material3-release\\res\\values-hi\\values-hi.xml",
+                    "source": "C:\\Users\\elime\\.gradle\\caches\\8.9\\transforms\\d96593fa536216c353e43dcd4d2b87b7\\transformed\\material3-release\\res\\values-hi\\values-hi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -57,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\miki1\\.gradle\\caches\\8.9\\transforms\\76341b9f7e57e1c8c1958aa8482bceb8\\transformed\\foundation-release\\res\\values-hi\\values-hi.xml",
+                    "source": "C:\\Users\\elime\\.gradle\\caches\\8.9\\transforms\\76341b9f7e57e1c8c1958aa8482bceb8\\transformed\\foundation-release\\res\\values-hi\\values-hi.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -74,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\miki1\\.gradle\\caches\\8.9\\transforms\\e834347f32fc2479a05b0602a15502fb\\transformed\\appcompat-1.6.1\\res\\values-hi\\values-hi.xml",
+                    "source": "C:\\Users\\elime\\.gradle\\caches\\8.9\\transforms\\e834347f32fc2479a05b0602a15502fb\\transformed\\appcompat-1.6.1\\res\\values-hi\\values-hi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -91,7 +74,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\miki1\\.gradle\\caches\\8.9\\transforms\\4391515d488309bce47e958685fdfbcb\\transformed\\core-1.15.0\\res\\values-hi\\values-hi.xml",
+                    "source": "C:\\Users\\elime\\.gradle\\caches\\8.9\\transforms\\4391515d488309bce47e958685fdfbcb\\transformed\\core-1.15.0\\res\\values-hi\\values-hi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -105,6 +88,23 @@
                         "startOffsets": "3429,3527,3630,3735,3836,3949,4055,16154",
                         "endColumns": "97,102,104,100,112,105,126,100",
                         "endOffsets": "3522,3625,3730,3831,3944,4050,4177,16250"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\elime\\.gradle\\caches\\8.9\\transforms\\de41ae4fdde63932e30fe8946a968433\\transformed\\ui-release\\res\\values-hi\\values-hi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,283,376,474,563,641,738,827,912,980,1049,1130,1215,1288,1369,1435",
+                        "endColumns": "94,82,92,97,88,77,96,88,84,67,68,80,84,72,80,65,119",
+                        "endOffsets": "195,278,371,469,558,636,733,822,907,975,1044,1125,1210,1283,1364,1430,1550"
+                    },
+                    "to": {
+                        "startLines": "48,49,50,51,52,56,57,164,165,166,167,169,170,172,174,175,176",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4504,4599,4682,4775,4873,5190,5268,15443,15532,15617,15685,15833,15914,16081,16255,16336,16402",
+                        "endColumns": "94,82,92,97,88,77,96,88,84,67,68,80,84,72,80,65,119",
+                        "endOffsets": "4594,4677,4770,4868,4957,5263,5360,15527,15612,15680,15749,15909,15994,16149,16331,16397,16517"
                     }
                 }
             ]
